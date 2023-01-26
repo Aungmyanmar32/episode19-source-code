@@ -1,0 +1,24 @@
+.container {
+  max-width: 1024px;
+  height: 50vh;
+}
+
+.registerForm button,
+.registerForm input {
+  margin: 2px auto;
+  font-size: 0.6rem;
+}
+
+.registerForm label {
+  font-size: 0.6rem;
+}
+
+.user {
+  border: 1px solid black;
+  width: 70%;
+  margin: 0.3rem auto;
+}
+
+.user p {
+  color: blueviolet;
+}
